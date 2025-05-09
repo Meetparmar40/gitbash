@@ -37,3 +37,5 @@ Switch branches:-
     --> you can create fiels or make changes in one branch and other still have different copy
 
 Merge Branches :-
+    -->git merge <branch_name> 
+    overrides data in current branch with data from <brach_name>

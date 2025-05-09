@@ -36,4 +36,4 @@ Switch branches:-
     --> All the branches stay unaffected by each other.
     --> you can create fiels or make changes in one branch and other still have different copy
 
-Mearge Branches :-
+Merge Branches :-

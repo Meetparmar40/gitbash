@@ -26,3 +26,14 @@ gitignore:-
     security or other reasons
     for that we use gitignore files
     + Make a gitignore file, and open it    
+
+Switch branches:-
+    git branch --> show all branches and current active branch
+    git branch <branch_name> --> create branch
+    git checkout <branch_name> --> change current working branch
+    git branch -m <branch_name> --> rename current working branch
+    
+    --> All the branches stay unaffected by each other.
+    --> you can create fiels or make changes in one branch and other still have different copy
+
+Mearge Branches :-
